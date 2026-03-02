@@ -120,3 +120,13 @@ module "fck-nat" {
 | <a name="output_security_group_ids"></a> [security\_group\_ids](#output\_security\_group\_ids) | List of security group IDs used by fck-nat ENIs |
 | <a name="output_subnet_id"></a> [subnet\_id](#output\_subnet\_id) | Subnet ID to which the fck-nat instance is deployed into |
 | <a name="output_vpc_id"></a> [vpc\_id](#output\_vpc\_id) | VPC ID to which the fck-nat instance is deployed into |
+
+## Service Metadata
+
+| Key                             | Value                          |
+|---------------------------------|--------------------------------|
+| **TEAM**                        | Team Name                      |
+| **TEAM-MANAGER-EMAIL**          | anubhaw@nightfall.ai                     |
+| **SLACK-DEPLOY-NOTIFY-CHANNEL** | #deploy-notifications-channel  |
+| **SLACK-TEAM-CHANNEL**          | #team-slack-channel            |
+| **TEAM-LINEAR-SLUG**            | DOPS                 |
