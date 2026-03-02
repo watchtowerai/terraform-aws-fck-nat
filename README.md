@@ -4,11 +4,10 @@
 
 | Key                             | Value                          |
 |---------------------------------|--------------------------------|
-| **TEAM**                        | Team Name                      |
-| **TEAM-MANAGER-EMAIL**          | anubhaw@nightfall.ai                     |
-| **SLACK-DEPLOY-NOTIFY-CHANNEL** | #deploy-notifications-channel  |
-| **SLACK-TEAM-CHANNEL**          | #team-slack-channel            |
-| **TEAM-LINEAR-SLUG**            | DOPS                 |
+| **TEAM**                        | DevOps                         |
+| **TEAM-MANAGER-EMAIL**          | anubhaw@nightfall.ai           |
+| **SLACK-TEAM-CHANNEL**          | #devops                        |
+| **TEAM-LINEAR-SLUG**            | DOPS                           |
 
 
 ## Introduction
