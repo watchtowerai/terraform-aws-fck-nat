@@ -1,5 +1,15 @@
 # Terraform fck-nat
 
+## Service Metadata
+
+| Key                             | Value                          |
+|---------------------------------|--------------------------------|
+| **TEAM**                        | DevOps                         |
+| **TEAM-MANAGER-EMAIL**          | anubhaw@nightfall.ai           |
+| **SLACK-TEAM-CHANNEL**          | #devops                        |
+| **TEAM-LINEAR-SLUG**            | DOPS                           |
+
+
 ## Introduction
 
 A Terraform module for deploying NAT Instances using [fck-nat](https://github.com/AndrewGuenther/fck-nat). The (f)easible (c)ost (k)onfigurable NAT!
